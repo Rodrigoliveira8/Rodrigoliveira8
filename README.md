@@ -1,6 +1,6 @@
-### Hello there 👋
+### Olá! Sou Rodrigo, iniciante profissionalmente na programação!
 
-GeNeRaL kEnObY
+-----------------------------------------------------------------
 
 
 <div align="center">
